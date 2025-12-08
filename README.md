@@ -2,4 +2,4 @@
 
 **CS Student | Software Dev & Tech Communication**
 
-Developer focused on IoT systems, Web development, and Game Dev.
+Developer focused on IoT systems, web and game development.
