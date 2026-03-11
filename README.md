@@ -1,3 +1,1 @@
-<a href="intent:#Intent;action=android.settings.SETTINGS;package=com.android.settings;end">
-   test
-</a>
+
