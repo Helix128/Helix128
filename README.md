@@ -18,6 +18,8 @@
 
 ## Projects
 
+<div align="left">
+
 ### CLI tools
 | Repository | Description |
 |------|-------------|
@@ -27,6 +29,8 @@
 | Repository | Description |
 |------|-------------|
 | [BlobShadowBaker](https://github.com/Helix128/BlobShadowBaker) | An easy to use tool to bake blob shadows for 3D models in the Unity Editor |
+
+</div>
 
 $\huge\textsf{more soon...}$
 
