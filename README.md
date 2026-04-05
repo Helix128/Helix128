@@ -1,6 +1,6 @@
 <div align="center">
 
-# Diego M. a.k.a <i>Helix128</i>
+# <img src="helix.png" width="256px" height="auto" alt="helix" />
 # IT student & software developer
 
 ## Tech Stack
