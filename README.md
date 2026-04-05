@@ -1,6 +1,6 @@
 <div align="center">
 
-# Diego M. / $\textsf{Helix128}$
+# Diego M. a.k.a <b>Helix128</b>
 # <b>IT student & software developer</b>
 
 ## Tech Stack
