@@ -1,6 +1,7 @@
 <div align="center">
 
-# <img src="helix.png" width="256px" height="auto" alt="helix" />
+<img src="helix.png" width="256px" height="auto" alt="helix">
+
 # IT student & software developer
 
 ## Tech Stack
