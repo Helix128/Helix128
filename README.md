@@ -1,10 +1,9 @@
 <div align="center">
 
 # Diego M. / $\textsf{Helix128}$
+# <b>IT student & software developer</b>
 
-## <b>IT student & software developer</b>
-
-### Tech Stack
+## Tech Stack
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></kbd></a>
 <a href="https://www.rust-lang.org/"><kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="40" height="40" /></kbd></a>
@@ -16,5 +15,19 @@
 <a href="https://www.arduino.cc/"><kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40" /></kbd></a>
 <a href="https://unity.com/"><kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40" /></kbd></a>
 <a href="https://godotengine.org/"><kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="godot" width="40" height="40" /></kbd></a>
+
+## Projects
+
+### CLI tools
+| Repository | Description |
+|------|-------------|
+| [archie-rs](https://github.com/Helix128/archie-rs) | Command line tool to make managing a Linux system easier |
+
+### Game development
+| Repository | Description |
+|------|-------------|
+| [BlobShadowBaker](https://github.com/Helix128/BlobShadowBaker) | An easy to use tool to bake blob shadows for 3D models in the Unity Editor |
+
+$\huge\textsf{more soon...}$
 
 </div>
