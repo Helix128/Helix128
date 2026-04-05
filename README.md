@@ -23,7 +23,7 @@
 ### CLI tools
 | Repository | Description |
 |------|-------------|
-| [archie-rs](https://github.com/Helix128/archie-rs) | Command line tool to make managing a Linux system easier |
+| [archie-rs](https://github.com/Helix128/archie-rs) | Command line tool to easily manage repetitive tasks and environment variables on Linux systems |
 
 ### Game development
 | Repository | Description |
