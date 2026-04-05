@@ -22,13 +22,13 @@
 
 ### CLI tools
 | Repository | Description |
-|------|-------------|
-| [archie-rs](https://github.com/Helix128/archie-rs) | A command line tool to manage repetitive tasks and environment variables on Linux systems. |
+|:---|:---|
+| [**archie-rs**](https://github.com/Helix128/archie-rs) | A command line tool to manage repetitive tasks and environment variables on Linux systems. |
 
 ### Game development
 | Repository | Description |
-|------|-------------|
-| [BlobShadowBaker](https://github.com/Helix128/BlobShadowBaker) | An Unity Editor tool to bake blob shadows for 3D models.|
+|:---|:---|
+| [**BlobShadowBaker**](https://github.com/Helix128/BlobShadowBaker) | An Unity Editor tool to bake blob shadows for 3D models.|
 
 </div>
 
