@@ -1,7 +1,7 @@
 <div align="center">
 
-# Diego M. a.k.a <b>Helix128</b>
-# <b>IT student & software developer</b>
+# Diego M. a.k.a <i>Helix128</i>
+# IT student & software developer
 
 ## Tech Stack
 
