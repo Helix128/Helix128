@@ -31,8 +31,10 @@
 |:---|:---|
 | [**BlobShadowBaker**](https://github.com/Helix128/BlobShadowBaker) | An Unity Editor tool to bake blob shadows for 3D models.|
 
-</div>
 
 $\huge\textsf{more soon...}$
+
+
+</div>
 
 </div>
