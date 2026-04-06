@@ -1,8 +1,9 @@
 <div align="center">
 
-# <kbd><img src="Helix.png" width="256px" height="auto" alt="helix"></kbd>
+> <img src="Helix.png" width="256px" height="auto" alt="helix">
   
-# IT student & software developer
+
+> IT student & software developer
 
 ## Tech Stack
 
