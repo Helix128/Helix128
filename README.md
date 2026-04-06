@@ -12,6 +12,7 @@
 <a href="https://www.rust-lang.org/" title="Rust"><kbd style="background-color:yellow;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="40" height="40" /></kbd></a>
 <a href="https://cplusplus.com/" title="C++"><kbd style="background-color:yellow;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></kbd></a>
 <a href="https://www.php.net/" title="PHP"><kbd style="background-color:yellow;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40" /></kbd></a>
+<a href="https://www.javascript.com/" title="JavaScript"><kbd style="background-color:yellow;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></kbd></a>
 
 ### Frameworks & Engines
 <a href="https://react.dev/" title="React"><kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40" /></kbd></a>
