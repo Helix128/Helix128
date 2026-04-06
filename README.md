@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="Helix.png" width="256px" height="auto" alt="helix">
+# <kbd><img src="Helix.png" width="256px" height="auto" alt="helix"></kbd>
   
 # IT student & software developer
 
