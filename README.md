@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<p style="font-size:64px;"><b>Helix128</b></p>
+$\Huge\textsf{Helix}$
+
 <p style="font-size:24px;">IT student & software developer</p>
 
 </div>
