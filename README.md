@@ -3,9 +3,9 @@
 
 <div id="user-content-toc" align="center">
   <ul>
-  <summary><h1><p>Helix</p></h1></summary>
+  <summary><h1><p>Hey!</p></h1></summary>
   </ul>
-  <h2> IT student & software developer </h2>
+  <h2>I'm Helix, an IT student & software developer </h2>
 </div>
 
 
