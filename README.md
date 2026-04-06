@@ -4,6 +4,8 @@
 
 > ## IT student & software developer
 
+</div>
+
 ## Tech Stack
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></kbd></a>
@@ -34,7 +36,5 @@
 
 $\huge\textsf{more soon...}$
 
-
-</div>
 
 </div>
