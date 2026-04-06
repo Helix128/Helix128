@@ -1,8 +1,8 @@
 
 <div align="center">
 
-# Helix128
-## IT student & software developer
+<p style="font-size:64px;"><b>Helix128</b></p>
+<p style="font-size:24px;">IT student & software developer</p>
 
 </div>
 
