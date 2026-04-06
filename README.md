@@ -1,9 +1,9 @@
 
 <div align="center">
 
-$\Huge\textsf{Helix}$
+# $\Huge\textsf{Helix}$
 
-<p style="font-size:24px;">IT student & software developer</p>
+## IT student & software developer</p>
 
 </div>
 
