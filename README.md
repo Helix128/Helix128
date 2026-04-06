@@ -4,10 +4,11 @@
 <div id="user-content-toc" align="center">
   <ul>
   <summary><h1> <p> Helix </p> </h1></summary>
-  <summary><h2> IT student & software developer </h2></summary>
   </ul>
 </div>
 </div>
+
+<h2> IT student & software developer </h2>
 
 ## Skills
 
