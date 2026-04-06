@@ -1,8 +1,8 @@
 
 <div align="center">
 
-> # $\huge\textsf{Helix}$
-> ## IT student & software developer
+# Helix128
+## IT student & software developer
 
 </div>
 
