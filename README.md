@@ -1,6 +1,7 @@
+
 <div align="center">
 
-> <img src="name-text.png" width="256px" height="auto" alt="helix"> 
+> <img src="small-name-text.png" width="256px" height="auto" alt="helix"> 
 
 > ## IT student & software developer
 
