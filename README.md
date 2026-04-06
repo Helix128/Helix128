@@ -1,8 +1,7 @@
 
 <div align="center">
 
-> <img src="small-name-text.png" width="256px" height="auto" alt="helix"> 
-
+> # $\huge\textsf{Helix}$
 > ## IT student & software developer
 
 </div>
