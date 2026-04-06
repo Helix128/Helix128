@@ -1,14 +1,8 @@
 
 
-
-<div id="user-content-toc" align="center">
-  <ul>
-  <summary><h1><p>Hey!</p></h1></summary>
-  </ul>
-  <h2>I'm Helix, an IT student & software developer </h2>
+<div align="center">
+<h1>IT student & software developer </h1>
 </div>
-
-
 
 ## Skills
 
