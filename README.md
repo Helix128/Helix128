@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# $\Huge\textsf{Helix}$
+### $\Huge\textsf{Helix}$
 
 ## IT student & software developer</p>
 
