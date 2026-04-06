@@ -19,6 +19,7 @@
 <a href="https://unity.com/"><kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40" /></kbd></a>
 <a href="https://godotengine.org/"><kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="godot" width="40" height="40" /></kbd></a>
 <a href="https://www.arduino.cc/"><kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40" /></kbd></a>
+<a href="https://www.raylib.com/"><kbd><img src="https://www.raylib.com/common/img/raylib_logo.png" alt="raylib" width="40" height="40" /></kbd></a>
 
 
 ## Projects
