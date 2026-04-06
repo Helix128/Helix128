@@ -1,14 +1,14 @@
 
-<div align="center">
+
 
 <div id="user-content-toc" align="center">
   <ul>
-  <summary><h1> <p> Helix </p> </h1></summary>
+  <summary><h1><p>Helix</p></h1></summary>
   </ul>
-</div>
+  <h2> IT student & software developer </h2>
 </div>
 
-<h2> IT student & software developer </h2>
+
 
 ## Skills
 
